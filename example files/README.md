@@ -1,4 +1,4 @@
-# 📂 prototype_background
+# 📂 example files
 
 > ### **용도**
 
